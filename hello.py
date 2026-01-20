@@ -1,2 +1,1 @@
-Print "Hello Welcome to world"
-print "Hello World"
+Print "Try to understand feature"
