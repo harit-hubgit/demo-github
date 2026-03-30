@@ -1,1 +1,1 @@
-print ("Hello Welcome to all")
+print ("Hello to everyone")
